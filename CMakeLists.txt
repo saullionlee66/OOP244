@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(Assignment1_Long_Distance_Call_Calculator)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Assignment1_Long_Distance_Call_Calculator main.cpp)
